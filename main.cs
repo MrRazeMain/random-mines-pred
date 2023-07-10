@@ -1,7 +1,7 @@
 /*
 Info 
 Author: mr_raze 
-CS
+Lang: CS
 */
 
 using System;
